@@ -83,3 +83,7 @@ tests/title
 tests/triangle-vulkan
 tests/windows
 
+*.d
+*.o
+*.out
+*.a
